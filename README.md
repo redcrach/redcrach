@@ -2,7 +2,7 @@
 
 ### Senior Full-Stack Developer & CTO 🚀
 
-I am a veteran software engineer and technical leader with **10+ years of experience** architecting, scaling, and securing enterprise-grade SaaS platforms. I specialize in the **PHP/Laravel** ecosystem, combining deep backend engineering with optimized database design and secure code execution. 
+I am a veteran software engineer and technical leader with **14+ years of experience** architecting, scaling, and securing enterprise-grade SaaS platforms. I specialize in the **PHP/Laravel** ecosystem, combining deep backend engineering with optimized database design and secure code execution. 
 
 * 🛠️ **Current Focus:** Optimizing high-throughput database schemas and building resilient backend architectures.
 * 💡 **Philosophy:** Write clean, maintainable, object-oriented code that eliminates technical debt and scales with business growth.
