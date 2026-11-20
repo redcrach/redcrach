@@ -27,10 +27,10 @@ I am a veteran software engineer and technical leader with **15+ years of experi
 
 ### 🤝 Connect with Me
 
-* 🖥️ Portfolio: [redcrach.github.io](https://redcrach.github.io)
+* 🖥️ Portfolio: [Taibouni.dev](https://taibouni.dev)
 * 💼 Professional Profile: [My Upwork Freelancer Profile](https://www.upwork.com/freelancers/taibouniabdelhafid)
-* 🔗 LinkedIn: [Taibouni Abdel Hafid](https://www.linkedin.com/in/taibouni-abdel-hafid-6533591a3/)
-* 📬 Email: taibounihafid@gmail.com
+* 🔗 LinkedIn: [Taibouni Abdel Hafid](https://www.linkedin.com/in/taibouni-abdel-hafid/)
+* 📬 Email: hafid@taibouni.dev
 * 🚀 Open to senior-level architectural roles, fractional CTO engagements, consultation and code review, and high-impact SaaS development.
 
 *"Mastering everything made with PHP."*
