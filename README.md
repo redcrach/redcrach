@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Abdelhafid Taibouni
 
-### Senior Full-Stack Developer & CTO 🚀
+### Senior Laravel Engineer · Ex-CTO · Legacy PHP to Laravel 🚀
 
 > 🖥️ **[Taibouni.dev](https://taibouni.dev)** is my portfolio, with an interactive terminal 🤓.
 > Type `provision` to watch how my ERP cockpit onboards a client, `projects` for case studies, or `ctf` if you like puzzles. There's a flag hidden in there.
