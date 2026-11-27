@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Abdelhafid Taibouni
+### 👋 Hi, I'm Hafid Taibouni
 
 ### Senior Backend Engineer · PHP, Laravel & JavaScript · Ex-CTO · Legacy modernization 🚀
 
